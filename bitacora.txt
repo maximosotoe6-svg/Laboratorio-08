@@ -1,0 +1,3 @@
+Primer repositorio del curso.
+Trabajo usando git por SSH.
+Este archivo se usara para practicar cambios y commits.
